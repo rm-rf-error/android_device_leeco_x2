@@ -1,0 +1,17 @@
+[
+ {
+   "repository": "rm-rf-error/android_device_leeco_msm8996-common",
+   "target_path": "device/leeco/msm8996-common"
+   "branch": "lineage-17.1",
+    "remote": "github"
+ }
+ 
+ {
+    "repository": "LineageOS/android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings",
+    "branch": "lineage-16.0",
+    "remote": "github"
+  }
+]
+]
+
